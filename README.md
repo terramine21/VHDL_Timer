@@ -5,5 +5,5 @@
 0b"01" - 50 Гц
 0b"10" - 10 Гц
 0b"11" - 1 Гц
-Внешний вид блока.
+#### Внешний вид блока.
 ![Image alt](https://github.com/terramine21/VHDL_Timer/blob/main/divider.PNG)
