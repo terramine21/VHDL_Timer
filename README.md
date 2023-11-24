@@ -1,2 +1,2 @@
 # VHDL_Timer
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/terramine21/VHDL_Timer/blob/main/divider.PNG)
